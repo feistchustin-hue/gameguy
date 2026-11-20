@@ -6,7 +6,7 @@
 </h>
 <b>about game</b>
 <h1>game name is platformer guy</h>
-<p>Welcome to my game this is the first game i ever made i hope youy guys like this (this is also a school project) i dont know if i uploaded it as an .exe file if not please tell me</p>
+<p>Welcome to my game this is the first game i ever made i hope youy guys like this (this is also a school project) i dont know if i uploaded it as an .exe file if not please tell me there is also a apk file so android can play</p>
 <img src="dbb721cb81f728242948b6b5890200236b73bc24c366273fdb07a2e589049e3f-ball_guy_death6.png" alt="one of ball guys death animations" width="400">
 <h1>Game spec's</h1>
 <p>Resolution 1280x720, scaleMode: nearest
